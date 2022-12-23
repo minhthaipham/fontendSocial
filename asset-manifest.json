@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fontendSocial/static/css/main.bec5e532.css",
+    "main.js": "/fontendSocial/static/js/main.9eaa73b8.js",
+    "index.html": "/fontendSocial/index.html",
+    "main.bec5e532.css.map": "/fontendSocial/static/css/main.bec5e532.css.map",
+    "main.9eaa73b8.js.map": "/fontendSocial/static/js/main.9eaa73b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bec5e532.css",
+    "static/js/main.9eaa73b8.js"
+  ]
+}
